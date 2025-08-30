@@ -1,0 +1,9 @@
+[book]
+authors = ["ojn"]
+language = "en"
+src = "src"
+title = "www.ojn.ovh"
+
+[build]
+build-dir = "docs"
+create-missing = true
