@@ -2,7 +2,7 @@
 authors = ["ojn"]
 language = "en"
 src = "src"
-title = "www.ojn.ovh |> notes, rants and stuff"
+title = "www.ojn.ovh"
 
 [build]
 build-dir = "docs"
