@@ -1,5 +1,5 @@
 # Summary
 
-- [Index](./index.md)
-- [About](./about.md)
+- [Index](./Index.md)
+- [About](./About.md)
 - [Markdown Cheatsheet](./Markdown-Cheatsheet.md)
