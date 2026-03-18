@@ -6,6 +6,7 @@ I usually write notes and rants about technology and open source.
 
 {{#include about.md:test1}}
 
+![Deer interview](img/deer-interview.png)
 
 ---
 

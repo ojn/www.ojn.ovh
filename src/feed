@@ -6,25 +6,11 @@
     <managingEditor>ojn@mailbox.org (Gleb Toit)</managingEditor>
     <pubDate>Wed, 18 Mar 2026 17:50:37 +0100</pubDate>
     <item>
-      <title>Lorem Ipsum</title>
-      <link>https://www.ojn.ovh/lorem-ipsum/</link>
-      <description>Lorem ipsum</description>
+      <title>ZFS - OpenZFS the best file system</title>
+      <link>https://www.ojn.ovh/ZFS.html</link>
+      <description>ZFS - the best file system</description>
       <author>Gleb Toit</author>
-      <pubDate>Tue, 10 Nov 2009 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logic-less Template Redux</title>
-      <link>https://www.ojn.ovh/logicless-template-redux/</link>
-      <description>More thoughts on logicless templates</description>
-      <author>Gleb Toit</author>
-      <pubDate>Wed, 11 Nov 2009 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Idiomatic Code Reuse in Go</title>
-      <link>https://www.ojn.ovh/idiomatic-code-reuse-in-go/</link>
-      <description>How to use interfaces &lt;em&gt;effectively&lt;/em&gt;</description>
-      <author>Gleb Toit</author>
-      <pubDate>Sat, 14 Nov 2009 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
