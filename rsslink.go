@@ -33,16 +33,15 @@ func visit(path string, fi os.FileInfo, err error) error {
 		//fmt.Println(string(read))
 		fmt.Println(path)
 
-		newContents := strings.Replace(string(read), "<!-- Book generated using mdBook -->", 
+		feedContents := strings.Replace(string(read), "<!-- Custom HTML head -->", 
 		"<link rel=\"alternate\" type=\"application/rss+xml\" title=\"ojn website feed\" href=\"https://www.ojn.ovh/feed\">", -1)
 
-		err = ioutil.WriteFile(path, []byte(newContents), 0)
+		err = ioutil.WriteFile(path, []byte(feedContents), 0)
 		if err != nil {
 			panic(err)
 		}
 
 	}
-
 	return nil
 }
 
