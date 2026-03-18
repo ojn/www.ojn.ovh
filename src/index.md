@@ -6,4 +6,4 @@ I usually write notes and rants about technology and open source
 
 ---
 
-Licensed: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+Unless otherwise noted my notes are licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/)
