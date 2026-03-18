@@ -1,4 +1,4 @@
-# About page
+# About
 
 [RSS Feed](https://www.ojn.ovh/feed)
 
