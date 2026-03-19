@@ -4,5 +4,5 @@
 - [About](./about.md)
 - [ZFS](./ZFS.md)
 - [Test](./test.md)
-- [~ojn](./õjn.md)
+- [~ojn](./~ojn.md)
 - [Markdown Cheatsheet](./Markdown-Cheatsheet.md)
