@@ -1,19 +1,18 @@
 
-#sidebar,
-#menu-bar,
-#void-nav,
+#mdbook-sidebar,
+#mdbook-menu-bar,
 .nav-chapters,
 .mobile-nav-chapters {
     display: none;
 }
 
-#page-wrapper.page-wrapper {
-    transform: none;
-    margin-left: 0px;
+#mdbook-page-wrapper.page-wrapper {
+    transform: none !important;
+    margin-inline-start: 0px;
     overflow-y: initial;
 }
 
-#content {
+#mdbook-content {
     max-width: none;
     margin: 0;
     padding: 0;
@@ -24,19 +23,7 @@
 }
 
 code {
-    background-color: #ddd;
-    border-radius: 5px;
-
-    /* Force background to be printed in Chrome */
-    -webkit-print-color-adjust: exact;
-}
-
-
-pre {
-    background-color: #ddd;
-
-    /* Force background to be printed in Chrome */
-    -webkit-print-color-adjust: exact;
+    direction: ltr !important;
 }
 
 pre > .buttons {
@@ -58,22 +45,6 @@ pre, code {
     white-space: pre-wrap;
 }
 
-svg {
+.fa {
     display: none !important;
 }
-
-table {
-    color: black;
-    border-color: black;
-    background-color: unset;
-}
-
-table thead tr {
-    color: black;
-    background-color: unset;
-}
-
-table tbody tr {
-    background-color: unset;
-}
-
