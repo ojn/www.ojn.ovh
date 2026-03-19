@@ -6,3 +6,6 @@
 - [Test](./test.md)
 - [~ojn](./~ojn.md)
 - [Markdown Cheatsheet](./Markdown-Cheatsheet.md)
+
+----
+  [Appendix](appendix.md)
