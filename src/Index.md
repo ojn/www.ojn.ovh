@@ -1,8 +1,8 @@
 # Index
 ## Welcome to my website 
 
-It's a blog, personsonal webpage, digital garden, zettelkasten, wiki that functions as my knowledge base.
-Mostnotes and rants about technology and open source.
+It's a blog, personal webpage, digital garden, zettelkasten, wiki that functions as my knowledge base.
+Mostly contains notes and rants about technology and open source.
 
 {{#include about.md:test1}}
 
