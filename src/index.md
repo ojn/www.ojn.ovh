@@ -12,4 +12,4 @@ www.ojn.ovh mostly contains notes and rants about technology and open source.
 
 ---
 
-Unless otherwise noted my notes are licensed with Creative Commons Attribution 4.0 [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+Unless otherwise noted my notes are licensed with Creative Commons Attribution 4.0 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
