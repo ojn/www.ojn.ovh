@@ -9,3 +9,5 @@ This website is built using [mdBook](https://rust-lang.github.io/mdBook/) and fu
 hello world
 
 <!-- ANCHOR_END: test1 -->
+
+[index](index.md)
