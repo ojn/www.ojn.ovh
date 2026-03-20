@@ -1,7 +1,4 @@
-index:
-====
-
-## Welcome to my website 
+# Welcome to my website 
 
 It's a blog, personal homepage, digital garden, zettelkasten, wiki that functions as my knowledge base.
 
