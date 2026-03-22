@@ -3,7 +3,7 @@ authors = ["ojn"]
 language = "en"
 description = "testing"
 src = "src"
-title = "Digital commonplace book www.ojn.ovh"
+title = "www.ojn.ovh"
 
 [build]
 build-dir = "docs"
