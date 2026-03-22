@@ -1,6 +1,6 @@
 # Welcome to my website 
 
-It's a digital commonplace book, blog, personal homepage, digital garden, zettelkasten, wiki that functions as my knowledge base.
+It's a commonplace book, blog, personal homepage, digital garden, zettelkasten, wiki that functions as my knowledge base.
 
 www.ojn.ovh mostly contains notes and rants about technology and open source.
 
