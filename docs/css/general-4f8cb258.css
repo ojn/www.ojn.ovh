@@ -18,6 +18,9 @@ body {
     margin: 0;
     font-size: 1.6rem;
     overflow-x: hidden;
+    	color: var(--fg);
+	  margin: 0;
+	  background-color: var(--bg);
 }
 
 code {
