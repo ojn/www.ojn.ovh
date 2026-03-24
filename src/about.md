@@ -17,7 +17,7 @@ Theme on this website is using regular Navy theme, modified with some css:
     --sidebar-spacer: #2d334f;
     
     ...
-    --links: #2f6ab5;
+    --links: #00dcf0;
 ```
 
 
