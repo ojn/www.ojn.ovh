@@ -1,4 +1,4 @@
-<div background-image: ./img/bg.svg></div>
+![](./img/bg.svg)
 # Welcome to my website 
 
 It's a commonplace book, blog, personal homepage, digital garden, zettelkasten, wiki that functions as my knowledge base.
