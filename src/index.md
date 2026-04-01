@@ -3,7 +3,7 @@
 
 It's a commonplace book, blog, personal homepage, digital garden, zettelkasten, wiki that functions as my knowledge base.
 
-www.ojn.ovh mostly contains notes and rants about technology and open source.
+www.ojn.ovh mostly contains notes about technology and open source.
 
 {{#include about.md:test1}}
 
