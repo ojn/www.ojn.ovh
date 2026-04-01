@@ -1,7 +1,7 @@
 ![](./img/bg.svg)
 # Welcome to my website / commonplace book
 
-It's personal notes homepage, blog, digital garden, zettelkasten, wiki that functions as my knowledge base.
+It's personal notes homepage, blog, digital garden, zettelkasten / wiki that functions as my knowledge base.
 
 www.ojn.ovh mostly contains notes about technology and open source.
 
