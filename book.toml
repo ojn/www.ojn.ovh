@@ -5,6 +5,9 @@ description = "testing"
 src = "src"
 title = "www.ojn.ovh"
 
+[output.html.search]
+enable = false
+
 [build]
 build-dir = "docs"
 create-missing = true
