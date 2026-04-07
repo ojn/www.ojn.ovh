@@ -1,6 +1,7 @@
-searcher-*.js
-searchindex-*.js
-elasticlunr-*.js
+./docs/searcher-*.js
+./docs/searchindex-*.js
+./docs/mark-*.js
+./docs/elasticlunr-*.js
 notes.sqlite
 go.sum
 rss
