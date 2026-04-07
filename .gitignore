@@ -1,3 +1,6 @@
+searcher-*.js
+searchindex-*.js
+elasticlunr-*.js
 notes.sqlite
 go.sum
 rss
