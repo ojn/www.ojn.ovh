@@ -3,4 +3,5 @@ Markup languages
 
 Markdown
 reStructuredText
-TypST
+Typst
+Org-mode
