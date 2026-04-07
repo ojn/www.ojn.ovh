@@ -1,7 +1,7 @@
 Markup languages
 ================
 
-Markdown
-reStructuredText
-Typst
-Org-mode
+* Markdown
+* reStructuredText
+* Typst
+* Org-mode
