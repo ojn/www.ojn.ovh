@@ -41,11 +41,6 @@
         <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="{{ resource "tomorrow-night.css" }}">
         <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="{{ resource "ayu-highlight.css" }}">
 
-        <!-- Custom theme stylesheets -->
-        {{#each additional_css}}
-        <link rel="stylesheet" href="{{ resource this }}">
-        {{/each}}
-
         {{#if mathjax_support}}
         <!-- MathJax -->
         <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
@@ -55,8 +50,7 @@
         <script>
             const path_to_root = "{{ path_to_root }}";
             const default_light_theme = "{{ default_theme }}";
-            const default_dark_theme = "{{ preferred_dark_theme }}";
-            
+            const default_dark_theme = "{{ preferred_dark_theme }}";     
         </script>
         <!-- Start loading toc.js asap -->
         <script src="{{ resource "toc.js" }}"></script>
@@ -148,7 +142,7 @@
 
                     </div>
 
-                    <div class="menu-title"><img src="./favicon.svg" alt="favicon.svg"> {{ book_title }}</div>
+                    <div class="menu-title">{{ book_title }}</div>
 
                     <div class="right-buttons">
                         {{#if print_enable}}
@@ -169,7 +163,6 @@
 
                     </div>
                 </div>
-
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
                 <script>
