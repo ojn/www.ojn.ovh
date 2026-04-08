@@ -1,9 +1,11 @@
 [book]
 authors = ["ojn"]
 language = "en"
-description = "testing"
+description = "ojn's plain text notes"
 src = "src"
-title = "www.ojn.ovh"
+title = " ojn's plain text notes // www.ojn.ovh
+
+background-image"
 
 [output.html.search]
 enable = false
