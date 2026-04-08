@@ -1,4 +1,4 @@
-![](./img/bg.svg)
+![background-image](./img/bg.svg)
 # Welcome to my website / commonplace book
 
 It's a personal notes site, blog, digital garden, zettelkasten / wiki that functions as my knowledge base.
