@@ -1,9 +1,9 @@
 [book]
 authors = ["ojn"]
 language = "en"
-description = "ojn's plain text notes"
+description = "just my plain text notes"
 src = "src"
-title = "[ obvious jokes negated ]"
+title = "obvious jokes negated"
 
 [output.html.search]
 enable = false
