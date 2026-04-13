@@ -3,7 +3,7 @@ authors = ["ojn"]
 language = "en"
 description = "just my plain text notes"
 src = "src"
-title = "obvious jokes negated"
+title = "www.ojn.ovh"
 
 [output.html.search]
 enable = false
