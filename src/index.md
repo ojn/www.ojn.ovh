@@ -1,6 +1,6 @@
 ![background-image](./img/bg.svg)
 # Welcome to my website 
-![tux](./img/tux.svg)
+![tux](img/tux.svg)
 
 It's a personal notes site, blog, digital garden, zettelkasten / wiki that functions as my knowledge base.
 
