@@ -8,12 +8,6 @@ title = "www.ojn.ovh"
 [output.html.search]
 enable = false
 
-[preprocessor.rss-feed]
-renderers = ["html"]
-
-[output.html]
-site-url = "https://www.ojn.ovh/"
-
 [build]
 build-dir = "docs"
 create-missing = true
