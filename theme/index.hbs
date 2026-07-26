@@ -158,8 +158,10 @@
                             <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
                         </ul>
-                        <button id="rss-feed" class="icon-button" title="RSS feed" aria-label="RSS feed" aria-expanded="false" aria-keyshortcuts="/ r" aria-controls="rss-feed">
+                        <button id="rss-feed" class="icon-button" title="RSS feed" aria-expanded="false" aria-keyshortcuts="/ r" aria-controls="rss-feed">
+                            <a href="{{ path_to_root }}feed" title="RSS feed" aria-label="RSS feed">
                             {{fa "solid" "fa-rss"}}
+                        </a>
                         </button>
                         {{#if search_enabled}}
                         <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
