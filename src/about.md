@@ -20,6 +20,12 @@ Theme on this website is using regular Navy theme, modified with some css:
     --links: #00dcf0;
 ```
 
+RSS feed is added with 
+```html
+    <head>
+        <link rel="alternate" type="application/rss+xml" title="ojn website feed" href="https://www.ojn.ovh/feed">
+        
+```
 
 <!-- ANCHOR: test1 -->
 
