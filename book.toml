@@ -8,6 +8,13 @@ title = "www.ojn.ovh"
 [output.html.search]
 enable = false
 
+[output.html.print]
+enable = false
+
+[output.html.playground]
+editable = false
+runnable = false
+
 [build]
 build-dir = "docs"
 create-missing = true
