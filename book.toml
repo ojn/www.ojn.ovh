@@ -5,6 +5,12 @@ description = "ojn's plain text notes"
 src = "src"
 title = "www.ojn.ovh"
 
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/ojn/www.ojn.ovh"
+git-repository-icon = "fab-github"
+
 [output.html.search]
 enable = false
 

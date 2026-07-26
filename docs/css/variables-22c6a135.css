@@ -200,8 +200,8 @@
 }
 
 .navy {
-	  --bg: #222;
-   	--fg: #ccc;
+    --bg: #222;
+    --fg: #ccc;
 
     --sidebar-bg: #222;
     --sidebar-fg: #ccc;
@@ -227,11 +227,11 @@
 
     --warning-border: #ff8e00;
 
-    --table-border-color: #ffb454;
+    --table-border-color: hsl(226, 23%, 16%);
     --table-header-bg: hsl(226, 23%, 31%);
     --table-alternate-bg: hsl(226, 23%, 14%);
 
-    --searchbar-border-color: #2b79a2;
+    --searchbar-border-color: #aaa;
     --searchbar-bg: #aeaec6;
     --searchbar-fg: #000;
     --searchbar-shadow-color: #aaa;
