@@ -23,21 +23,7 @@ func main() {
             Link:        &feeds.Link{Href: "https://www.ojn.ovh/lorem-ipsum/"},
             Description: "Lorem ipsum",
             Author:      &feeds.Author{Name: "Gleb Toit", Email: "ojn@mailbox.org"},
-            Created:     time.Date(2009, time.November, 10, 22, 0, 0, 0, time.UTC),
-        },
-        &feeds.Item{
-            Title:       "Logic Template",
-            Link:        &feeds.Link{Href: "https://www.ojn.ovh/logic/"},
-            Description: "More thoughts on logic",
-            Author:      &feeds.Author{Name: "Gleb Toit", Email: "ojn@mailbox.org"},
-            Created:     time.Date(2009, time.November, 11, 12, 0, 0, 0, time.UTC),
-        },
-        &feeds.Item{
-            Title:       "Code Reuse",
-            Link:        &feeds.Link{Href: "https://www.ojn.ovh/code-reuse/"},
-            Description: "How to reuse code <em>effectively</em>",
-            Author:      &feeds.Author{Name: "Gleb Toit", Email: "ojn@mailbox.org"},
-            Created:     time.Date(2009, time.November, 14, 05, 0, 0, 0, time.UTC),
+            Created:     time.Date(2026, time.July, 10, 22, 0, 0, 0, time.UTC),
         },
     }
 
