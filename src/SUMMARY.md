@@ -7,7 +7,6 @@
  * [Markdown-Cheatsheet.md](./Markdown-Cheatsheet.md)
  * [Markup-Languages.md](./Markup-Languages.md)
  * [index.md](./index.md)
- * [rss.xml](./rss.xml)
  * [ZFS.md](./ZFS.md)
  * [about.md](./about.md)
  * [test2.md](./test2.md)

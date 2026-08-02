@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>ojn website</title>
-    <link>https://www.ojn.ovh</link>
-    <description>ojn notes and rants about technology and open source</description>
-    <managingEditor>ojn@mailbox.org (Gleb Toit)</managingEditor>
-    <pubDate>Fri, 31 Jul 2026 13:25:53 +0200</pubDate>
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://www.ojn.ovh/lorem-ipsum/</link>
-      <description>Lorem ipsum</description>
-      <author>Gleb Toit</author>
-      <pubDate>Fri, 10 Jul 2026 22:00:00 +0000</pubDate>
-    </item>
-  </channel>
-</rss>
+# feed
