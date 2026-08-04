@@ -16,6 +16,4 @@ const owdays = () => {
   document.getElementById('uwdays').innerHTML = `Already ${fwdays()} days of Russian fullscale war on Ukraine. \n
   ${owdays()} days since Russian occupational war on Ukraine's Crimea and Donbas. `
 })()
-function standforukraine() {
-    alert("Stand for Ukraine! Help Ukrainians to defeat Russia!");
-}
+
